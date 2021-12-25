@@ -18,7 +18,7 @@ import com.springbootrest.service.BookService;
 
 @RestController
 public class BookController {
-
+//autowiring
 	@Autowired
 	BookService bookservice;
 	
